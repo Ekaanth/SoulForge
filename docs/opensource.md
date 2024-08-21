@@ -4,70 +4,84 @@ title: 🌍 Open Source
 ---
 # Building Open-Source Projects
 
-As part of the SoulForge Rewards Program, all projects funded through our grants must be open-sourced. This document provides guidelines and best practices for building and maintaining open-source projects.
+As part of the SoulForge Rewards Program, all projects funded through our grants must be open-sourced. This document outlines the guidelines and rules for building and maintaining open-source projects.
 
-## Why Open Source?
+## Open-Source Requirements
 
-Open-source projects encourage transparency, collaboration, and innovation. By making your project open-source, you can:
-- Attract contributions from the global developer community.
-- Increase the visibility and impact of your project.
-- Foster trust and credibility within the ecosystem.
-- Enable others to learn from and build upon your work.
+1. **Licensing**: All code produced as part of a grant must be open-sourced under one of the following licenses:
+   - Apache 2.0
+   - GPLv3
+   - MIT
+   - Unlicense
+   Include a `LICENSE` file in the root directory with the full text of the chosen license.
 
-## License
+2. **Repository Structure**:
+   - Maintain a clear and organized directory structure.
+   - Include a comprehensive `README.md` file in the root directory.
+   - Provide a `CONTRIBUTING.md` file with guidelines for contributors.
+   - Include a `CODE_OF_CONDUCT.md` file to ensure a welcoming community.
 
-All code produced as part of a grant must be open-sourced. We prefer the following licenses:
-- Apache 2.0
-- GPLv3
-- MIT
-- Unlicense
+3. **Documentation**:
+   - Provide clear and detailed documentation for your project.
+   - Include installation instructions, usage examples, and API references where applicable.
+   - Keep documentation up-to-date with each release or significant change.
 
-Ensure that your project includes a `LICENSE` file in the root directory. This file should contain the full text of the chosen license.
+4. **Version Control**:
+   - Use Git for version control.
+   - Maintain a clear branching strategy (e.g., Git Flow or GitHub Flow).
+   - Tag releases with semantic versioning (e.g., v1.0.0).
 
-## Documentation
+5. **Continuous Integration and Testing**:
+   - Implement CI/CD pipelines (e.g., GitHub Actions, Travis CI).
+   - Maintain a comprehensive test suite with high code coverage.
+   - Ensure all tests pass before merging pull requests.
 
-Comprehensive documentation is essential for users and contributors to understand and use your project. At a minimum, include the following:
+6. **Code Quality**:
+   - Adhere to consistent coding standards and style guides.
+   - Use linters and formatters to maintain code quality.
+   - Conduct regular code reviews for all contributions.
 
-- **README.md**: An overview of the project, installation instructions, usage examples, and contact information.
-- **CONTRIBUTING.md**: Guidelines for contributing to the project, including code style, pull request process, and issue tracking.
-- **CODE_OF_CONDUCT.md**: A code of conduct to ensure a welcoming and inclusive community.
+7. **Security**:
+   - Regularly update dependencies to address vulnerabilities.
+   - Implement security best practices in your code.
+   - Provide a clear process for reporting security issues.
 
-Consider adding tutorials or video guides to help new users get started.
+8. **Community Engagement**:
+   - Respond promptly to issues and pull requests.
+   - Maintain active communication channels (e.g., Discord, mailing lists).
+   - Provide clear guidelines for community contributions.
 
-## Contribution Guidelines
+9. **Transparency**:
+   - Clearly communicate the project's roadmap and goals.
+   - Be open about the project's limitations and known issues.
+   - Provide regular updates on project status and milestones.
 
-Encourage community contributions by providing clear and detailed contribution guidelines:
+10. **Attribution**:
+    - Properly attribute all contributors to the project.
+    - Respect and acknowledge any third-party libraries or resources used.
 
-- **Issue Tracking**: Use GitHub Issues to track bugs, feature requests, and other tasks.
-- **Pull Requests**: Provide a clear process for submitting pull requests, including branch naming conventions, review process, and merge criteria.
-- **Code Reviews**: Encourage constructive code reviews and feedback to maintain code quality and foster learning.
+## Best Practices for Building Open-Source Projects
 
-## Continuous Integration and Testing
+1. **Start with a Clear Vision**: Define the purpose and goals of your project from the outset.
 
-Implement continuous integration (CI) to automatically run tests and checks on each pull request. Popular CI services include GitHub Actions, Travis CI, and CircleCI. Ensure that your project has a robust test suite to maintain code quality and reliability.
+2. **Modular Design**: Build your project with modularity in mind to facilitate easier maintenance and contributions.
 
-## Security Best Practices
+3. **Comprehensive Documentation**: Invest time in creating thorough documentation to help users and potential contributors.
 
-- Regularly update dependencies to address security vulnerabilities.
-- Follow security best practices for coding, such as input validation and proper error handling.
-- If your project handles sensitive data, ensure that it complies with relevant privacy regulations and standards.
+4. **Automated Testing**: Implement automated testing to ensure code reliability and ease the contribution process.
 
-## Community Engagement
+5. **Semantic Versioning**: Use semantic versioning to clearly communicate changes and maintain backwards compatibility.
 
-Build and nurture a community around your project:
+6. **Issue Templates**: Provide issue templates to standardize bug reports and feature requests.
 
-- **Communication Channels**: Set up communication channels such as a mailing list, Discord/Slack community, or GitHub Discussions.
-- **Community Guidelines**: Establish and enforce community guidelines to maintain a positive and inclusive environment.
-- **Events and Meetups**: Organize or participate in events and meetups to promote your project and connect with users and contributors.
+7. **Contributor Guidelines**: Create clear guidelines for how others can contribute to your project.
 
-## Resources
+8. **Code of Conduct**: Establish and enforce a code of conduct to foster a positive community.
 
-- [Choosing an Open Source License](https://choosealicense.com/)
-- [GitHub Guides](https://guides.github.com/)
-- [Open Source Guides](https://opensource.guide/)
+9. **Regular Maintenance**: Consistently review and update your project to keep it relevant and secure.
 
-By following these guidelines, you can create a successful and impactful open-source project that benefits both the zkBankai ecosystem and the broader developer community.
+10. **Community Building**: Actively engage with your user base and encourage contributions from the community.
 
-## Questions and Support
+By adhering to these rules and following these best practices, you'll create a robust, maintainable, and community-friendly open-source project that aligns with the SoulForge Rewards Program's goals.
 
-If you have any questions about making your project open-source or need assistance, please reach out to us at [gm@zkbankai.com](mailto:gm@zkbankai.com).
+For any questions or support regarding open-source development, please contact us at [gm@zkbankai.com](mailto:gm@zkbankai.com).

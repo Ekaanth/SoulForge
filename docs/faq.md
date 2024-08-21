@@ -3,70 +3,82 @@ sidebar_position: 11
 title: 🙋 FAQ
 ---
 
-# Frequently Asked Questions<!-- omit in toc -->
+# Frequently Asked Questions
 
 ## 🧭 General
 
-### How do I apply?
+### How do I apply for a SoulForge grant?
 
-  Please refer to the ["How to Apply" section](Process/how-to-apply.md) in our documentation.
+Please refer to our detailed **["How to Apply"](Process/how-to-apply.md)** guide for step-by-step instructions on submitting your application.
 
-### How much can I ask for?
+### Is there a maximum grant amount I can request?
 
-  Generally, there is no upper limit to grant amounts. However, the higher the requested amount, the stricter the review.
+While there's no strict upper limit, larger grant requests undergo more rigorous scrutiny. We evaluate each application based on its potential impact and feasibility.
 
-### What activities/positions do you fund?
+### What types of projects does SoulForge fund?
 
-  The SoulForge's Grants Program aims to fund software development and research activities that are beneficial for the ecosystem as a whole. As such, we don't usually fund tangential costs such as business-oriented activities (marketing, business planning), events or outreach, and—for non-infrastructure projects—deployment and hosting costs, maintenance or audits. We also expect you to have a good understanding of the technologies you are planning to use, meaning that we don't fund time spent learning of Circom or Plonky.
+We primarily support software development and research activities that benefit the zk ecosystem. Our focus is on technical development and innovation, particularly in Plonky3 and circom. We typically don't fund:
+- Business-oriented activities (e.g., marketing, business planning)
+- Events or outreach programs
+- Deployment, hosting costs, or maintenance for non-infrastructure projects
+- Audits
+- Time spent learning Circom or Plonky (we expect a baseline understanding)
 
-### Who can apply?
+### Who is eligible to apply for a SoulForge grant?
 
-  Projects involved in or planning a token sale are not eligible for a SoulForge grant. Additionally, we do not fund projects that promote gambling, illicit trade, money laundering, or any criminal activities 
+We welcome applications from individuals and teams committed to advancing the zk ecosystem. However, we do not fund:
+- Projects involved in or planning a token sale
+- Projects promoting gambling, illicit trade, money laundering, or any criminal activities
 
-### Can I get an upfront payment?
+### Does SoulForge offer upfront payments?
 
-  The SoulForge Grants Program does not offer upfront payment. If you absolutely require upfront payment, Please contact the team directly.
+Our standard process is milestone-based payments. However, if you have a compelling need for upfront funding, please contact the team directly to discuss your situation.
 
-### When do I get paid?
+### When are grant payments issued?
 
-  Payments are issued once a milestone has been successfully delivered. Successful delivery requires that you have submitted the milestone as per our delivery guidelines _and_ that the Grants team has reviewed _and officially accepted_ your submission. Payment is made within 14 days after approval.
+Payments are made within 14 days after a milestone is successfully delivered and officially accepted by the Grants team. This requires submission according to our delivery guidelines and a thorough review by our team.
 
-### Can I reuse someone else’s open-source code?
+### Can I incorporate existing open-source code in my project?
 
-  Open source software and the Web3 movement are all about collaboration. As long as you meet the code’s license, we encourage you to find, modify and contribute to already existing libraries and projects if it is of use for your project. However, we expect you to honour other people’s work and their right to attribution, and your published code to adhere to the license requirements of the code you are benefiting from. Submitting code as part of a milestone that violates someone else’s license will result in immediate termination. We will furthermore continue to monitor any repositories you may have submitted as part of a milestone for possible license infringements and reserve the right to terminate the grant if we find you going out of your way to hide external contributions.
+We encourage leveraging existing open-source libraries and projects, provided you comply with their licenses. Please ensure proper attribution and adherence to license requirements. Any license violations will result in immediate grant termination.
 
-### My application was rejected. Do you have any recommendations on where to go from here?
+### My application was rejected. What are my options?
 
-  We usually give reasons why an application was rejected. We always try to be constructive and work with you towards an application that is beneficial to all parties. If we find no common ground, please initiate a conversation with the SoulForge team.
+We provide specific feedback on rejections and are open to working with you to improve your application. If you believe there's been a misunderstanding, please initiate a conversation with the SoulForge team.
 
-### One of your grantees is using my code without respecting the terms of its license
+### I believe a SoulForge grantee is misusing my code. What should I do?
 
-  Please reach out to us asap.
+Please contact us immediately with details of the potential license violation. We take intellectual property rights seriously and will investigate promptly.
 
-### Why are other grant applications being accepted faster than mine?
+### Why are some applications processed faster than others?
 
-  There are many reasons why your application might take longer than others: some applications are straightforward and simple and address an obvious issue, others require deeper understanding and discussion. If your application is highly technical or specialised, we might have to bring in an external evaluator. Sometimes, this specialised evaluator is busy with another evaluation. And sometimes, the committee is simply unsure or not quite convinced.
+Application processing times vary based on factors such as:
+- Complexity and technical depth of the proposal
+- Need for specialized external evaluation
+- Clarity and completeness of the application
+- Current workload of the evaluation team
+- Level of innovation and potential impact
 
 ## 🖊️ Application Process
 
-### How long does it take from application to decision?
+### What's the typical timeline from application to decision?
 
-  Quality of the application and desirability for the ecosystem, a grant application could be approved within a week. Usually, there will be a discussion and requests for changes, additions or improvements. If no one in the committee finds the application approval-worthy or you don't react to our comments, it will be closed after two weeks of inactivity.
+While straightforward, high-impact proposals can be approved within a week, most applications involve discussion and refinement. We aim to provide initial feedback within 14-20 days. Applications without activity for two weeks may be closed, but can be reopened if not rejected.
 
-### What is KYC/KYB and why do I have to provide this data?
+### Why is KYC/KYB required, and how is this information handled?
 
-  In order to comply with regulations, the SoulForge is required to perform KYC (Know Your Customer) checks on individuals and AML (Anti-money Launder) checks on entities applying for a grant in order to verify their identity. For these checks, we ask you to provide legal information about yourself and/or the team members you are working with to the team (Will find a better way to do it in near future). 
+To comply with regulations, we must verify the identity of grant recipients through Know Your Customer (KYC) for individuals and Anti-Money Laundering (AML) checks for entities. This information is handled confidentially and securely. We're exploring more user-friendly ways to manage this process in the future.
 
 ## 🥳 After Approval
 
-### Something came up and I cannot finish the project in time. Can we postpone or call off the rest of my project?
+### What if I can't complete my project on time?
 
-  The SoulForge reserves the right to terminate an agreement that is behind schedule. However, we are not interested in taking away your grant for any slight hiccup. More often than not, delays are part of the journey and do not constitute a reason for concern. The best way to handle changes in your plans is to get in touch with us. If you would like to prematurely end your work, we can amend your application and remove the milestones you won't be able to complete.
+We understand that delays can occur. The best approach is to communicate with us proactively about any changes to your timeline. We can often amend your application or adjust milestones. While we reserve the right to terminate agreements that fall significantly behind schedule, our goal is to support your success, not penalize you for minor setbacks.
 
-### Can I list the SoulForge as a partner?
+### Can I list SoulForge as a partner or use your logo?
 
-  No. Once the grants team has accepted your first milestone, you may display our grants badge in a project-specific context, such as the repository containing the grant project work.
+You may display our grants badge in project-specific contexts (e.g., the grant project repository) after your first milestone is accepted. However, you cannot list SoulForge as a general partner or use our logo for broader promotional purposes.
 
-### Can you help me advertise my project?
+### Does SoulForge provide marketing support for grantees?
 
-  The SoulForge does not provide PR services to its grantees. However, We will be announcing the projects on [zk-bankai](https://x.com/zk_bankai) twitter account, along with the project description and progress and milestone completion information time to time.
+While we don't offer direct PR services, we do showcase our grantees' work. We regularly announce projects, their descriptions, and milestone completions on our [zk-bankai Twitter account](https://x.com/zk_bankai). This provides visibility within the zk community for your innovative work.

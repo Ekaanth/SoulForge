@@ -10,10 +10,33 @@ The grants are distributed in milestones, with disbursements occurring upon the 
 
 ## How to apply:
 
-   1. Please read our [FAQs](../faq.md), [guidelines](../Support%20Docs/grant_guidelines_per_category.md), to familiarize yourself with the subtleties of grants, applications and the program as a whole.
-   2. [Fork](https://github.com/zk-bankai/SoulForge) our grants program repository.
-   3. In the newly created fork, create a copy of the [application template](https://github.com/zk-bankai/SoulForge/blob/master/applications/application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/soulforge/soulforge/master/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
-   4. Name the new file after your project: `project_name.md`.
-   5. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](../Support%20Docs/grant_guidelines_per_category.md) and make sure your deliverables present a similar level of detail.
-   6. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
-   7. You will see a comment template that contains a checklist. You can leave it as is and tick the checkboxes once the pull request has been created. Please read through these items and check all of them.
+Follow these steps carefully to submit your grant application:
+
+1. Familiarize yourself with the program:
+   - Read our [FAQs](../faq.md) to understand common questions about the grants program.
+   - Review our [project ideas](https://docs.google.com/document/d/1jl3ofy0jNSe3yQkVpsMO59_mIxoLljEVViNsVoBKzlI) document to get inspiration and understand what types of projects we're looking for.
+
+2. Prepare your application:
+   - [Fork](https://github.com/zk-bankai/SoulForge) our SoulForge grants program repository on GitHub.
+   - In your forked repository, navigate to the `applications` folder.
+   - Create a copy of the [application template](https://github.com/zk-bankai/SoulForge/blob/main/applications/application-template.md). 
+     **Important:** Do not modify the original template file.
+   - Name your new file `project_name.md`, replacing "project_name" with your actual project name.
+
+3. Fill out your application:
+   - Open your newly created `project_name.md` file.
+   - Carefully fill out each section of the template with details about your project.
+   - Be as thorough as possible in describing your project, especially the deliverables.
+   - Clearly outline the scope and expected outcomes of your project.
+   - The more detailed information you provide, the easier it will be for the review committee to evaluate your proposal.
+
+4. Submit your application:
+   - Once you've completed your application, commit the changes to your forked repository.
+   - Create a pull request to the main branch of SoulForge repository.
+   - Ensure that your pull request contains only one new file: the `project_name.md` file you created and filled out.
+
+5. Wait for review:
+   - The review committee will evaluate your application and may provide feedback or ask for clarifications.
+   - Be prepared to respond to any questions or make adjustments to your proposal if requested.
+
+By following these steps carefully, you'll ensure that your application is submitted correctly and has the best chance of being considered for a grant.

@@ -11,15 +11,15 @@ The SoulForge grants program is part of our commitment to the zero-knowledge (zk
 
 While applications are open to all, we prioritize:
 - Projects with a **strong technical focus**
-- Initiatives that demonstrably add value to the Plonky3 or circom ecosystem
-- Applicants with a solid and compelling long-term roadmap
-- Work that shows clear significance to the community
+- Initiatives that demonstrably add value to the **Plonky3 or circom** ecosystem
+- Applicants with a **solid and compelling** long-term roadmap
+- Work that shows clear **significance to the community**
 
 ## Project Types
 
 ### Research-oriented projects
-- Demonstrate potential impact through academic publications
-- Show community engagement metrics
+- Demonstrate potential impact through **academic publications**
+- Show **community engagement** metrics
 
 ### Open-source projects
 - Prove experience in building strong communities
@@ -65,18 +65,6 @@ We do not fund projects that:
 - Using others' work without proper attribution will lead to immediate termination
 - Contact us if you have questions about license compliance
 
-## Application Process
-
-1. Read the FAQ to understand the program's subtleties
-2. Fork the SoulForge grants program repository
-3. Create a copy of the application template
-4. Name the new file after your project: `project_name.md`
-5. Fill out the template with detailed project information
-6. Create a pull request with only the new Markdown file
-7. Address any comments or requested changes from the committee
-8. Wait for the application to be marked as 'ready for review'
-9. Upon approval, your application will be accepted and merged
-
 ## Review Process
 
 1. The SoulForge Grants Committee will review applications
@@ -95,6 +83,6 @@ We do not fund projects that:
 
 ## Support
 
-While we don't provide hands-on support, we will try to direct you to the correct resources if you face specific issues during development. We encourage you to join the [community](https://t.me/zkbankai) for help and updates.
+While we don't provide hands-on support, we will try to direct you to the correct resources if you face specific issues during development. We encourage you to join the [community](https://t.me/zkbankaiSoulforge) for help and updates.
 
-Remember: The goal is to create valuable, open-source contributions to the zk ecosystem that explore and build with Plonky3 and circom!
+**Remember: The goal is to create valuable, open-source contributions to the zk ecosystem that explore and build with Plonky3 and circom!**

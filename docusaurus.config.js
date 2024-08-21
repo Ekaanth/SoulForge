@@ -42,7 +42,7 @@ module.exports = {
           type: 'doc',
           docId: 'docs/zkbankai',
           position: 'right',
-          label: 'Docs',
+          label: 'ZK Bankai',
         },
         {
           type: 'doc',
@@ -80,7 +80,11 @@ module.exports = {
             },
             {
               label: 'Grants Community Telegram Channel',
-              href: 'https://t.me/soulforge',
+              href: 'https://t.me/zkbankaiSoulforge',
+            },
+            {
+              label: 'Polygon R&D Discord',
+              href: 'https://discord.gg/0xpolygonRnD',
             },
           ],
         },
@@ -89,14 +93,6 @@ module.exports = {
     },
     prism: {
       theme: darkCodeTheme,
-    },
-    algolia: {
-      appId: '2K941E9936',
-      apiKey: '40b8fdf418b56d3370b3fdc64671d851',
-      indexName: 'soulforge-grants-program',
-      contextualSearch: true,
-      searchParameters: {},
-      searchPagePath: 'search',
     },
   },
   presets: [

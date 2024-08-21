@@ -12,6 +12,7 @@ In cases where a niche expert opinion is desirable, one of the committee members
 Committee members:
 
 - Harsh Bajpai, zkBankai core 
+- Danilo, ex Co-Founder, kakarot zkEVM
 - Ayush Bhadauria, Polygon Labs 
 
 ## SoulForge Grants Evaluators
@@ -22,6 +23,7 @@ Current evaluators:
 
 - Diego Kingston, Co-Founder, Aligned layer
 - RJ, Co-Founder, Aligned layer
+- [ More joining soon ]
 
 ## Roles and Responsibilities
 
@@ -42,7 +44,7 @@ As part of our commitment to the zero-knowledge (zk) landscape, we aim to foster
 
 ## Contact
 
-For questions about the grants program, please refer to our [FAQ](docs/faq.md#frequently-asked-questions). If you need to reach out to the team directly, you can use the contact information provided in the grant application process.
+For questions about the grants program, please refer to our [FAQ](docs/faq.md). If you need to reach out to the team directly, you can use the contact information provided in the grant application process.
 
 ---
 
