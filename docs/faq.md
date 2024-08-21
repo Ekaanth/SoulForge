@@ -1,11 +1,8 @@
----
-sidebar_position: 11
-title: 🙋 FAQ
----
+# Frequently Asked Questions
 
 # Frequently Asked Questions
 
-## 🧭 General
+### How do I apply?[​](https://github.com/zk-bankai/SoulForge#pencil-process "Direct link to How do I apply?")
 
 ### How do I apply for a SoulForge grant?
 
@@ -59,7 +56,7 @@ Application processing times vary based on factors such as:
 - Current workload of the evaluation team
 - Level of innovation and potential impact
 
-## 🖊️ Application Process
+There are many reasons why your application might take longer than others: some applications are straightforward and address an obvious issue, and others may require deeper understanding and discussion. If your application is highly technical or specialised, we might have to bring in an external evaluator. Sometimes, this specialised evaluator is busy with another evaluation. And sometimes, the committee is simply unsure or not quite convinced.
 
 ### What's the typical timeline from application to decision?
 
@@ -69,7 +66,7 @@ While straightforward, high-impact proposals can be approved within a week, most
 
 To comply with regulations, we must verify the identity of grant recipients through Know Your Customer (KYC) for individuals and Anti-Money Laundering (AML) checks for entities. This information is handled confidentially and securely. We're exploring more user-friendly ways to manage this process in the future.
 
-## 🥳 After Approval
+To comply with regulations, We may have to ask you to perform KYC (Know Your Customer) checks on individuals and AML (Anti-money Launder) checks on entities applying for a grant to verify their identity. For these checks, we ask you to provide legal information about yourself and/or the team members you are working with to the team (Will find a better way to do it shortly).
 
 ### What if I can't complete my project on time?
 
