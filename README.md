@@ -45,7 +45,7 @@ Evaluators are individuals able to evaluate the technology delivered as a result
 #### SoulForge Grants Mentors 
 
 - Harsh Bajpai, zkBankai core ⚡️
-- Chiro Hiro, Founder, Chiro Hiro 
+- Chiro Hiro, Founder, Orochi Network
 - Danilo, ex Co-Founder, kakarot zkEVM 
 - Weikeng Chen 
 
@@ -95,7 +95,7 @@ Finally, we take licensing and the right of all teams in and outside the ecosyst
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](https://github.com/zk-bankai/SoulForge?tab=readme-ov-file#-guidelines) and make sure your deliverables present a similar level of detail.
    5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
-   6. Done, Additionally we would love it if you could share this on X 🫶🏻
+   6. Done, Additionally we would love if you could share this on X 🫶🏻
 
 
 ### 2. Application Review
@@ -118,7 +118,7 @@ We are particularly interested in supporting projects that could be leveraged by
 
 ## 🫶 Support
 
-The scope of this program consists of grants and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best to direct you to the correct resources with the project's mentors. 
+The scope of this program consists of grants and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources with the mentors of the project. 
 
 You can find general documentation and more information on [Plonky3](https://docs.polygon.technology/innovation-design/plonky/), and [Circom](https://docs.polygon.technology/zkEVM/concepts/circom-intro-brief/), and we encourage you to join the [**community**](https://t.me/zkbankaiSoulforge)✨ to get help with specific issues or to stay up to date with the most recent developments.
 
