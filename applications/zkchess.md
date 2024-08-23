@@ -45,8 +45,6 @@ Link to the project [ Here ]()
 
 ## [Section 5] Development Roadmap :open_book:
 
-> **Important Note:** The maximum duration for projects is 2 months.
-
 ### Milestone 1 — Basic Chess Game
 
 - **Estimated Duration:** 1 month
