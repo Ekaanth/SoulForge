@@ -90,12 +90,24 @@ Finally, we take licensing and the right of all teams in and outside the ecosyst
 
 ### 1. Application
 
-  1. Please read our [FAQs](docs/faq.md), to familiarize yourself with the subtleties of grants, applications and the program as a whole.
-   2. [Fork](https://github.com/zk-bankai/SoulForge) our grants program repository. In the newly created fork, create a copy of the [application template](applications/application-template.md).  Make sure you **do not modify the template file directly**.
-   3. Name the new file after your project: `project_name.md`.
-   4. Fill out the template with the details of your project. The more information you provide, the faster the review. Please refer to our [Grant guidelines for most popular grant categories](https://github.com/zk-bankai/SoulForge?tab=readme-ov-file#-guidelines) and make sure your deliverables present a similar level of detail.
-   5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
-   6. Done, Additionally we would love if you could share this on X 🫶🏻
+1. **Read Our [FAQs](docs/faq.md):**  
+   Get familiar with the details of our grants, applications, and overall program.
+
+2. **Fork Our Repository:**  
+   [Fork](https://github.com/zk-bankai/SoulForge) our grants program repository. In your fork, create a copy of the [application template](applications/application-template.md). **Do not modify the original template file directly**.
+
+3. **Rename Your File:**  
+   Name the new file after your project: `project_name.md`. Refer to this [sample application](https://github.com/zk-bankai/SoulForge/blob/main/applications/zkchess.md#zkchess) for guidance.
+
+4. **Complete the Template:**  
+   Fill out the template with your project details. The more comprehensive your information, the quicker the review. Check our [Grant Guidelines](https://github.com/zk-bankai/SoulForge?tab=readme-ov-file#-guidelines) to ensure your deliverables are detailed.
+
+5. **Submit Your Application:**  
+   Create a pull request with **only one new file**—the Markdown file you filled out.
+
+6. **Spread the Word:**  
+   When you're done, give us a shout-out on [X](https://x.com/zk_bankai), We Would love to share your contributions ahead 🩵
+
 
 
 ### 2. Application Review
