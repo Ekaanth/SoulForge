@@ -19,7 +19,7 @@
 
 - **Technology Stack:**  
   - **Circom:** For creating zero-knowledge proof circuits to handle game moves and state verification.
-  - **Smart Contracts:** For game management and player interactions chain.
+  - **Smart Contracts:** For game management and player interactions on chain.
 
 ## [Section 3] Ecosystem Fit
 
@@ -55,7 +55,7 @@ Link to the project [ Here ]()
 ### Milestone 2 — Advanced Features & Deployment
 
 - **Estimated Duration:** 1 month
-- **Description:** Integrate advanced features such as player ranking, enhanced security, and deploy the game on the blockchain with full zk-proof support.
+- **Description:** Integrate advanced features such as player ranking, and enhanced security, and deploy the game on the blockchain with full zk-proof support.
 - **FTE:** 1.5
 - **Costs:** 6,000 USD [Expenses include feature development, smart contract integration, and final deployment.]
 
