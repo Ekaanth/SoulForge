@@ -11,8 +11,11 @@ In cases where a niche expert opinion is desirable, one of the committee members
 
 Committee members:
 
-- Harsh Bajpai, zkBankai core 
-- Ayush Bhadauria, Polygon Labs 
+ - [Diego Kingston, Co-Founder, Aligned layer](https://x.com/zkdiegokingston)
+ - [RJ, Co-Founder, Aligned layer](https://x.com/thisisrj)
+ - [Jeffrey Scholz, RareSkills](https://x.com/Jeyffre)
+ - [Louis Guthmann, Head of Product, Starknet](https://x.com/GuthL)
+ - [Leandro Ferrigno, Head of Engineering, Class Lambda](https://x.com/lean_knack)
 
 ## SoulForge Grants Evaluators
 
@@ -20,8 +23,11 @@ Evaluators are individuals capable of assessing the technology delivered as a re
 
 Current evaluators:
 
-- Diego Kingston, Co-Founder, Aligned layer
-- RJ, Co-Founder, Aligned layer
+ - [Harsh Bajpai, zkBankai core ⚡️](https://x.com/bajpaiharsh244)
+ - [Chiro Hiro, Founder, Orochi Network](https://x.com/Chiro8x)
+ - Danilo, ex Co-Founder, kakarot zkEVM
+ - [Weikeng Chen, Research Partner](https://x.com/weikengchen)
+ - [Harsha Karamchat, Co-Founder, Reclaim Protocol](https://x.com/HarshaKaramchat)
 
 ## Roles and Responsibilities
 
@@ -42,8 +48,13 @@ As part of our commitment to the zero-knowledge (zk) landscape, we aim to foster
 
 ## Contact
 
-For questions about the grants program, please refer to our [FAQ](docs/faq.md#frequently-asked-questions). If you need to reach out to the team directly, you can use the contact information provided in the grant application process.
+For questions about the grants program, please refer to our [FAQ](docs/faq.md). If you need to reach out to the team directly, you can use the contact information provided in the grant application process.
 
 ---
 
 Note: The composition of the committee and evaluators may change over time to best serve the needs of the SoulForge program and the zk ecosystem.
+
+In cases you have any thoughts or doubts please reach out to the below folks:
+
+[Abhishek Ekaanth](https://x.com/abhiarys) [ tg : @humblefool06 ]
+[Ayush Bhadauria](https://x.com/0xAbix) [ tg : @amiabix ]

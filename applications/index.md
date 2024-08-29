@@ -2,15 +2,22 @@
 title: Accepted Grant Applications
 layout: applications
 ---
+# Accepted Grant Applications
 
-Use this page for an overview of all public grants and their status. Each row links to a project's website, their grant application document and code repository.
+This page provides a comprehensive overview of all grant application documents applied through the SoulForge program. Each entry includes links to the project's website, grant application document, and code repository, offering a transparent view of the project's status and progress.
 
 :::info
-This page provides an overview of accepted SoulForge grant applications and their progress. In cases where the link points to an project, please note that the grant application itself is often an independent project unrelated to other work done by the teams.
+## Important Notes
 
-Additionally, the page lists terminations that occurred due to a breach of the SoulForge grant program terms. Teams might also decide to stop working on the grant—though not necessarily on the project itself—for various reasons, which is not reflected on this sheet.
+1. **Grant Independence**: While some links may point to established projects, please note that SoulForge grant applications are often independent initiatives, separate from other work conducted by the teams.
 
-Furthermore, there is a clear distinction between an application being accepted and the successful delivery of the respective project. Only teams that have successfully delivered a milestone are permitted to make public announcements.
+2. **Terminations**: This page includes information about grants terminated due to breaches of the SoulForge grant program terms. However, it's important to note that teams may choose to discontinue work on a grant for various reasons without terminating the project itself. Such decisions are not reflected in this overview.
+
+3. **Application vs. Delivery**: There is a clear distinction between a grant application being accepted and the successful delivery of the project. Acceptance does not guarantee successful completion.
+
+4. **Public Announcements**: Only teams that have successfully delivered a milestone are authorized to make public announcements about their SoulForge grant.
+
+5. **Regular Updates**: This page is updated regularly to reflect the most current status of each grant project.
 :::
 
 <a id="top"></a>

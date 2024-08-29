@@ -49,24 +49,25 @@ The committee consists of prominent individuals and organizations, With our aim 
 
 Evaluators are individuals who will be evaluating the applications submitted as a result of the Grants Program. The committee has the right to add or remove evaluators based on supermajority.
 
-- Diego Kingston, Co-Founder, Aligned layer
-- RJ, Co-Founder, Aligned layer
-- Jeffrey Scholz, RareSkills 
-- Louis Guthmann, Head of Product, Starknet
-- Leandro Ferrigno, Head of Engineering, Class Lambda
+ - [Diego Kingston, Co-Founder, Aligned layer](https://x.com/zkdiegokingston)
+ - [RJ, Co-Founder, Aligned layer](https://x.com/thisisrj)
+ - [Jeffrey Scholz, RareSkills](https://x.com/Jeyffre)
+ - [Louis Guthmann, Head of Product, Starknet](https://x.com/GuthL)
+ - [Leandro Ferrigno, Head of Engineering, Class Lambda](https://x.com/lean_knack)
+
 
 #### SoulForge Grants Mentors 
 
-- Harsh Bajpai, zkBankai core ⚡️
-- Chiro Hiro, Founder, Orochi Network
-- Danilo, ex Co-Founder, kakarot zkEVM 
-- Weikeng Chen, Research Partner
-- Harsha, Co-Founder, Reclaim Protocol
+ - [Harsh Bajpai, zkBankai core ⚡️](https://x.com/bajpaiharsh244)
+ - [Chiro Hiro, Founder, Orochi Network](https://x.com/Chiro8x)
+ - Danilo, ex Co-Founder, kakarot zkEVM
+ - [Weikeng Chen, Research Partner](https://x.com/weikengchen)
+ - [Harsha Karamchat, Co-Founder, Reclaim Protocol](https://x.com/HarshaKaramchat)
 
 In cases you have any thoughts or doubts please reach out to the below folks: 
 
-- Abhishek Ekaanth [ tg : @humblefool06 ]
-- Ayush Bhadauria [ tg : @amiabix ]
+[Abhishek Ekaanth](https://x.com/abhiarys) [ tg : @humblefool06 ]
+[Ayush Bhadauria](https://x.com/0xAbix) [ tg : @amiabix ]
 
 ## ❣ Guidelines
 

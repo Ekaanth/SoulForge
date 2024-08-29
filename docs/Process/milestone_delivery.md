@@ -3,8 +3,10 @@ sidebar_position: 3
 title: 3. Delivery and Payment
 ---
 
-   Milestones are monitored from the submitted project's GitHub account. Once a milestone is completed, the SoulForge team will have a 30-minute call with the project team to review the milestone. Upon approval, the grant team will be notified, and the milestone grants will be coordinated accordingly (as mentioned in the application).
+   Milestone progress is tracked through the project's GitHub repository. Upon completion of a milestone, the SoulForge team conducts a 30-minute review call with the project team. If the milestone is approved, the grant team is notified, and milestone payments are processed as outlined in the original application.
 
-   :::info
-      The SoulForge team or any member of the team will never reach out to applicants asking for funds or requesting private keys. If you receive such messages, it is a scam. Please be cautious and protect your funds.
+   The review process ensures that all deliverables meet the agreed-upon standards and that the project is progressing as planned. This collaborative approach allows for open communication and timely feedback between the SoulForge team and grant recipients.
+
+   :::warning
+   Security Alert: The SoulForge team will never initiate contact to request funds or private keys. Any such requests are fraudulent. Always verify the authenticity of communications and protect your assets.
    :::
