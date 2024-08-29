@@ -1,5 +1,8 @@
 # SoulForge ⚡️<!-- omit in toc -->
 
+![enter image description here](src/components/2024-08-29%2019.47.14.jpg)
+
+
 - [:wave: Introduction](#wave-introduction)
   - [Project Ideas](https://github.com/zk-bankai/SoulForge#-project-ideas)
   - [Team](https://github.com/zk-bankai/SoulForge#-team)
@@ -15,7 +18,16 @@
 
 As part of our commitment to zero-knowledge(zk) landscape, we are amped to bring a comprehensive grants program focused on Supporting innovative development, research and education efforts close to **[Plonky3](https://github.com/Plonky3/Plonky3) and [circom](https://github.com/iden3/circom)** Supported by **Polygon Labs 💜**.
 
+**Key Details**:
+
+ - Total Grant Pool: $100,000 
+ - Application Start Date: [August 29th 2024 ]    
+ - Application Period: 30 days [ September 27th 2024 ]
+ - Focus Areas: Plonky3 and Circom-related projects, with an
+   emphasis on    creativity and impact.
+
  For more information about [zkBankai](https://soulforge-zkbankai.netlify.app/), Or any questions/thoughts or just want to hangout with the gigachads in the zk space [**Join here**](https://t.me/zkbankaiSoulforge)⚡️.
+
 
 
 ## 💡 Project Ideas
@@ -35,21 +47,23 @@ The committee consists of prominent individuals and organizations, With our aim 
 
 ### SoulForge Grants Evaluators
 
-Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
+Evaluators are individuals who will be evaluating the applications submitted as a result of the Grants Program. The committee has the right to add or remove evaluators based on supermajority.
 
 - Diego Kingston, Co-Founder, Aligned layer
 - RJ, Co-Founder, Aligned layer
--  Jeffrey Scholz, RareSkills 
-- Louis Guthmann, Head of Product, Starknet 
+- Jeffrey Scholz, RareSkills 
+- Louis Guthmann, Head of Product, Starknet
+- Leandro Ferrigno, Head of Engineering, Class Lambda
 
 #### SoulForge Grants Mentors 
 
 - Harsh Bajpai, zkBankai core ⚡️
 - Chiro Hiro, Founder, Orochi Network
 - Danilo, ex Co-Founder, kakarot zkEVM 
-- Weikeng Chen 
+- Weikeng Chen, Research Partner
+- Harsha, Co-Founder, Reclaim Protocol
 
-In cases you have any thought or doubts please reach out to the below folks: 
+In cases you have any thoughts or doubts please reach out to the below folks: 
 
 - Abhishek Ekaanth [ tg : @humblefool06 ]
 - Ayush Bhadauria [ tg : @amiabix ]
