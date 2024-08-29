@@ -41,7 +41,7 @@
 - **Prior Work/Research:**  
   The team has previously worked on blockchain-based game projects and zk-proof implementations, including a proof-of-concept for zk-SNARK-based voting systems.
 
-Link to the project [ Here ]()
+Link to the project [ Here ](https://example.com)
 
 ## [Section 5] Development Roadmap :open_book:
 
