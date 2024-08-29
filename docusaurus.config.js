@@ -103,7 +103,7 @@ module.exports = {
           path: '.',
           routeBasePath: '/', 
           showLastUpdateAuthor: false,
-          showLastUpdateTime: true,
+          showLastUpdateTime: false,
           sidebarPath: require.resolve('./sidebars.js'),
           beforeDefaultRehypePlugins: [
           ],
